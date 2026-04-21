@@ -1,0 +1,4 @@
+E:\.Net\安全开发\checksec\bin\Release\checksec-win.exe
+E:\.Net\安全开发\checksec\obj\Release\CheckSec.NetFx.csproj.AssemblyReference.cache
+E:\.Net\安全开发\checksec\obj\Release\CheckSec.NetFx.csproj.CoreCompileInputs.cache
+E:\.Net\安全开发\checksec\obj\Release\checksec-win.exe
